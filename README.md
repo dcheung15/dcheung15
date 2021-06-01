@@ -1,6 +1,6 @@
 ### Salutations 👋
 [![Dcheung15's GitHub stats](https://github-readme-stats.vercel.app/api?username=dcheung15&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dcheung15&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
